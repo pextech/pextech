@@ -3,7 +3,7 @@
 ![pextech's GitHub stats](https://github-readme-stats.vercel.app/api?username=pextech&show_icons=true&theme=radical)
 <br><p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>         <img src="https://img.shields.io/badge/-sequelize-4285F4?style=flat-square&logo=Bootstrapp%&=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+         <img src="https://img.shields.io/badge/-bootstrapp-4285F4?style=flat-square&logo=Bootstrapp%&=white"/>
    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -31,6 +32,7 @@
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+             <img src="https://img.shields.io/badge/-wordpress-4285F4?style=flat-square&logo=Bootstrapp%&=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
   </p>
 </p>
@@ -110,23 +112,23 @@ Sunday       36 commits     █████████░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Paris
+⌚︎ Time Zone: CAT (Cairo) 
 
 💬 Programming Languages: 
 Other                    63 hrs 38 mins      ████████████████████████░   98.86% 
-CSS                      20 mins             ████████████████████████░   99.53% 
-HTML                     10 mins             ████████████████████████░   99.27% 
-React.js                 8 mins              █████████████████████░░░░   82.21% 
-Nodejs                   4 mins              ████████████████████████░   98.11%
+CSS                      80 hrs              ████████████████████████░   99.53% 
+HTML                     60 hrs              ████████████████████████░   99.27% 
+React.js                 73 hrs 18 mins      █████████████████████░░░░   82.21% 
+Nodejs                   93 hrs 21 mins      ████████████████████████░   98.11%
 
 🔥 Editors: 
 Browser                  63 hrs 29 mins      ████████████████████████░   98.61% 
 VS Code                  44 mins             █████████████████████░░░░   1.16% 
-Bash                     2 mins              █████████████████████░░░░   80.07%
+Bash                     52 hrs              █████████████████████░░░░   80.07%
 
 💻 Operating System: 
 Windows                  63 hrs 33 mins      ████████████████████████░   98.72% 
-Linux                    49 mins             ███████████████████░░░░░░   71.28%
+Linux                    49 hrs              ███████████████████░░░░░░   71.28%
 
 ```
 
@@ -135,7 +137,8 @@ Linux                    49 mins             ███████████�
 ```text
 PHP                      3 repos              ███████░░░░░░░░░░░░░░░░░░   18.48% 
 C                        2 repos              █████░░░░░░░░░░░░░░░░░░░░   11.74% 
-JavaScript               30+ repos            ██████████████████████░░░   80.7% 
+JavaScript               40+ repos            ██████████████████████░░░   80.7% 
+python                    0 repos             █████░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
