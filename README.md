@@ -43,11 +43,11 @@
 
 - 🔭 &nbsp; I’m currently working mostly on blockchain projects
 - 🤝 &nbsp; I’m looking to collaborate on any Project
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🌱 &nbsp; I’m currently learning Cadence and Rust; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pextech?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mupenzi-cedrick-10a158196/)
-- 📝 &nbsp; Checkout my [resume](https://pextech-resume.netlify.app/)
+- 📝 &nbsp; Checkout my [Site](https://pextech-resume.netlify.app/)
 
 <br>
 <br>
@@ -67,9 +67,6 @@
 
 
 <br>
-
-
-![me](./me.png) 
 
 <br>
 <br>
